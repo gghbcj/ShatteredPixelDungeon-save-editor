@@ -15,7 +15,7 @@
 
 本修改器是针对知名开源 Rogue-like 地牢探险游戏 **《破碎的像素地牢》(Shattered Pixel Dungeon)** 的现代化网页版存档修改器。
 
-由于早期的社区修改器（如 `spud`、`spd-save-editor`）长期未维护，在新版游戏（v2.x / v3.x / v4.x 及当前最新的 **v4.0.2 / Code 922+**）上出现了**版本不匹配报错**、**输入框无法双向绑定**、**删除物品数组错位误删**以及**致命空格替换导致坏档**等严重问题，本项目参考上述优秀项目的灵感，基于官方最新游戏源码进行了全面重构（Remake）。
+本项目参考`spud`、`spd-save-editor`优秀项目的灵感，基于官方最新游戏(v4.0.2)源码进行了全面重构。
 
 ### ✨ 核心特性
 
@@ -118,7 +118,7 @@ node local_mod.mjs game2
 
 A modern, robust, web-based save editor for **Shattered Pixel Dungeon** (SPD v4.0.2 / Code 922+).
 
-Earlier editors such as `spud` and `spd-save-editor` are mostly abandoned and fail on newer game versions due to outdated version checks, broken form bindings, bag indexing bugs, and serialization errors. This project is a complete remake with modern technologies, guaranteeing zero-corruption saves and a rich UI.
+Based on spud and spd-save-editor, this project is a complete remake built with modern technologies, guaranteeing zero-corruption saves and a rich UI.
 
 ### Features
 - **100% In-Browser Execution**: All Gzip and JSON decoding/encoding happens locally on your computer.
