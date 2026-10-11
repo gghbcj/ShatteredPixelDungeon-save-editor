@@ -1,0 +1,65 @@
+{
+  "weaponEnchants": [
+    { "name": "Blazing", "nameZh": "炽热", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Blazing" },
+    { "name": "Blocking", "nameZh": "格挡", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Blocking" },
+    { "name": "Blooming", "nameZh": "繁花", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Blooming" },
+    { "name": "Chilling", "nameZh": "极寒", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Chilling" },
+    { "name": "Corrupting", "nameZh": "腐化", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Corrupting" },
+    { "name": "Crystal", "nameZh": "水晶", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Crystal" },
+    { "name": "Elastic", "nameZh": "弹力", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Elastic" },
+    { "name": "Eldritch", "nameZh": "恐怖", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Eldritch" },
+    { "name": "Grim", "nameZh": "严酷(致命)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Grim" },
+    { "name": "Kinetic", "nameZh": "动能", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Kinetic" },
+    { "name": "Lucky", "nameZh": "幸运", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Lucky" },
+    { "name": "Projecting", "nameZh": "穿刺", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Projecting" },
+    { "name": "Shocking", "nameZh": "震慑", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Shocking" },
+    { "name": "Unstable", "nameZh": "混乱", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Unstable" },
+    { "name": "Vampiric", "nameZh": "吸血", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Vampiric" },
+    { "name": "Venomous", "nameZh": "剧毒", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Venomous" },
+    { "name": "Vorpal", "nameZh": "锋锐", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Vorpal" }
+  ],
+  "weaponCurses": [
+    { "name": "Annoying", "nameZh": "聒噪", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Annoying" },
+    { "name": "Dazzling", "nameZh": "眩目", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Dazzling" },
+    { "name": "Displacing", "nameZh": "错位", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Displacing" },
+    { "name": "Explosive", "nameZh": "爆裂", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Explosive" },
+    { "name": "Friendly", "nameZh": "友善", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Friendly" },
+    { "name": "Polarized", "nameZh": "偏振", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Polarized" },
+    { "name": "Pressurized", "nameZh": "高压", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Pressurized" },
+    { "name": "Sacrificial", "nameZh": "献祭", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Sacrificial" },
+    { "name": "Wayward", "nameZh": "偏斜", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Wayward" },
+    { "name": "Wondrous", "nameZh": "怪奇", "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Wondrous" }
+  ],
+  "armorGlyphs": [
+    { "name": "Affection", "nameZh": "魅惑", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Affection" },
+    { "name": "AntiMagic", "nameZh": "抗魔", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.AntiMagic" },
+    { "name": "Brimstone", "nameZh": "硫磺(免疫火焰)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Brimstone" },
+    { "name": "Camouflage", "nameZh": "伪装", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Camouflage" },
+    { "name": "Entanglement", "nameZh": "纠缠", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Entanglement" },
+    { "name": "Flow", "nameZh": "流动(移速提升)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Flow" },
+    { "name": "Obfuscation", "nameZh": "晦暗(隐匿)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Obfuscation" },
+    { "name": "Potential", "nameZh": "潜能(法杖充能)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Potential" },
+    { "name": "Repulsion", "nameZh": "斥力(击退敌人)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Repulsion" },
+    { "name": "Stone", "nameZh": "坚石(闪避转格挡)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Stone" },
+    { "name": "Swiftness", "nameZh": "迅捷", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Swiftness" },
+    { "name": "Thorns", "nameZh": "荆棘(反伤)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Thorns" },
+    { "name": "Viscosity", "nameZh": "粘滞(伤害延缓)", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Viscosity" }
+  ],
+  "armorCurses": [
+    { "name": "AntiEntropy", "nameZh": "反熵", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.AntiEntropy" },
+    { "name": "Bulk", "nameZh": "臃肿", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Bulk" },
+    { "name": "Corrosion", "nameZh": "腐蚀", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Corrosion" },
+    { "name": "Displacement", "nameZh": "定相", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Displacement" },
+    { "name": "Metabolism", "nameZh": "代谢", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Metabolism" },
+    { "name": "Multiplicity", "nameZh": "分身", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Multiplicity" },
+    { "name": "Overgrowth", "nameZh": "丛生", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Overgrowth" },
+    { "name": "Stench", "nameZh": "恶臭", "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Stench" }
+  ],
+  "augments": [
+    { "value": "NONE", "label": "无偏向 (None)", "labelEn": "None" },
+    { "value": "DAMAGE", "label": "重量/伤害偏向 (Damage)", "labelEn": "Damage" },
+    { "value": "SPEED", "label": "轻量/速度偏向 (Speed)", "labelEn": "Speed" },
+    { "value": "DEFENSE", "label": "防御偏向 (Defense)", "labelEn": "Defense" },
+    { "value": "EVASION", "label": "闪避偏向 (Evasion)", "labelEn": "Evasion" }
+  ]
+}

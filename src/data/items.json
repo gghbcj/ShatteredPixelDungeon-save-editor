@@ -1,0 +1,2592 @@
+[
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Amulet",
+    "simpleName": "Amulet",
+    "category": "misc",
+    "nameEn": "amulet of yendor",
+    "nameZh": "Yendor护符"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Ankh",
+    "simpleName": "Ankh",
+    "category": "misc",
+    "nameEn": "ankh",
+    "nameZh": "重生十字架"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.ArcaneResin",
+    "simpleName": "ArcaneResin",
+    "category": "misc",
+    "nameEn": "arcane resin",
+    "nameZh": "奥术树脂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.Armor",
+    "simpleName": "Armor",
+    "category": "armor",
+    "nameEn": "of anti-entropy",
+    "nameZh": "反熵"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.ClassArmor",
+    "simpleName": "ClassArmor",
+    "category": "armor",
+    "nameEn": "ClassArmor",
+    "nameZh": "ClassArmor"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.ClericArmor",
+    "simpleName": "ClericArmor",
+    "category": "armor",
+    "nameEn": "hero's vestments",
+    "nameZh": "英雄祭服"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.ClothArmor",
+    "simpleName": "ClothArmor",
+    "category": "armor",
+    "nameEn": "cloth armor",
+    "nameZh": "布甲"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.AntiEntropy",
+    "simpleName": "AntiEntropy",
+    "category": "curse",
+    "nameEn": "of anti-entropy",
+    "nameZh": "反熵"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Bulk",
+    "simpleName": "Bulk",
+    "category": "curse",
+    "nameEn": "of bulk",
+    "nameZh": "臃肿"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Corrosion",
+    "simpleName": "Corrosion",
+    "category": "curse",
+    "nameEn": "of corrosion",
+    "nameZh": "腐蚀"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Displacement",
+    "simpleName": "Displacement",
+    "category": "curse",
+    "nameEn": "of displacement",
+    "nameZh": "定相"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Metabolism",
+    "simpleName": "Metabolism",
+    "category": "curse",
+    "nameEn": "of metabolism",
+    "nameZh": "代谢"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Multiplicity",
+    "simpleName": "Multiplicity",
+    "category": "curse",
+    "nameEn": "of multiplicity",
+    "nameZh": "分身"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Overgrowth",
+    "simpleName": "Overgrowth",
+    "category": "curse",
+    "nameEn": "of overgrowth",
+    "nameZh": "丛生"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.curses.Stench",
+    "simpleName": "Stench",
+    "category": "curse",
+    "nameEn": "of stench",
+    "nameZh": "恶臭"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.DuelistArmor",
+    "simpleName": "DuelistArmor",
+    "category": "armor",
+    "nameEn": "hero's breastplate",
+    "nameZh": "英雄胸铠"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Affection",
+    "simpleName": "Affection",
+    "category": "glyph",
+    "nameEn": "of affection",
+    "nameZh": "魅惑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.AntiMagic",
+    "simpleName": "AntiMagic",
+    "category": "glyph",
+    "nameEn": "of anti-magic",
+    "nameZh": "敌法"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Brimstone",
+    "simpleName": "Brimstone",
+    "category": "glyph",
+    "nameEn": "of brimstone",
+    "nameZh": "狱火"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Camouflage",
+    "simpleName": "Camouflage",
+    "category": "glyph",
+    "nameEn": "of camouflage",
+    "nameZh": "迷彩"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Entanglement",
+    "simpleName": "Entanglement",
+    "category": "glyph",
+    "nameEn": "of entanglement",
+    "nameZh": "缠绕"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Flow",
+    "simpleName": "Flow",
+    "category": "glyph",
+    "nameEn": "of flow",
+    "nameZh": "涌流"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Obfuscation",
+    "simpleName": "Obfuscation",
+    "category": "glyph",
+    "nameEn": "of obfuscation",
+    "nameZh": "晦暗"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Potential",
+    "simpleName": "Potential",
+    "category": "glyph",
+    "nameEn": "of potential",
+    "nameZh": "电势"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Repulsion",
+    "simpleName": "Repulsion",
+    "category": "glyph",
+    "nameEn": "of repulsion",
+    "nameZh": "反斥"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Stone",
+    "simpleName": "Stone",
+    "category": "glyph",
+    "nameEn": "of stone",
+    "nameZh": "磐岩"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Swiftness",
+    "simpleName": "Swiftness",
+    "category": "glyph",
+    "nameEn": "of swiftness",
+    "nameZh": "迅捷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Thorns",
+    "simpleName": "Thorns",
+    "category": "glyph",
+    "nameEn": "of thorns",
+    "nameZh": "荆棘"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.glyphs.Viscosity",
+    "simpleName": "Viscosity",
+    "category": "glyph",
+    "nameEn": "of viscosity",
+    "nameZh": "粘稠"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.HuntressArmor",
+    "simpleName": "HuntressArmor",
+    "category": "armor",
+    "nameEn": "hero's cloak",
+    "nameZh": "英雄披风"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.LeatherArmor",
+    "simpleName": "LeatherArmor",
+    "category": "armor",
+    "nameEn": "leather armor",
+    "nameZh": "皮甲"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.MageArmor",
+    "simpleName": "MageArmor",
+    "category": "armor",
+    "nameEn": "hero's robe",
+    "nameZh": "英雄法袍"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.MailArmor",
+    "simpleName": "MailArmor",
+    "category": "armor",
+    "nameEn": "mail armor",
+    "nameZh": "链甲"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.PlateArmor",
+    "simpleName": "PlateArmor",
+    "category": "armor",
+    "nameEn": "plate armor",
+    "nameZh": "板甲"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.RogueArmor",
+    "simpleName": "RogueArmor",
+    "category": "armor",
+    "nameEn": "hero's garb",
+    "nameZh": "英雄风衣"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.ScaleArmor",
+    "simpleName": "ScaleArmor",
+    "category": "armor",
+    "nameEn": "scale armor",
+    "nameZh": "鳞甲"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.armor.WarriorArmor",
+    "simpleName": "WarriorArmor",
+    "category": "armor",
+    "nameEn": "hero's plate mail",
+    "nameZh": "英雄板甲"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.AlchemistsToolkit",
+    "simpleName": "AlchemistsToolkit",
+    "category": "artifact",
+    "nameEn": "alchemist's toolkit",
+    "nameZh": "炼金工具箱"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.Artifact",
+    "simpleName": "Artifact",
+    "category": "artifact",
+    "nameEn": "alchemist's toolkit",
+    "nameZh": "炼金工具箱"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.CapeOfThorns",
+    "simpleName": "CapeOfThorns",
+    "category": "artifact",
+    "nameEn": "cape of thorns",
+    "nameZh": "荆棘斗篷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.ChaliceOfBlood",
+    "simpleName": "ChaliceOfBlood",
+    "category": "artifact",
+    "nameEn": "chalice of blood",
+    "nameZh": "蓄血圣杯"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.CloakOfShadows",
+    "simpleName": "CloakOfShadows",
+    "category": "artifact",
+    "nameEn": "cloak of shadows",
+    "nameZh": "暗影斗篷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.DriedRose",
+    "simpleName": "DriedRose",
+    "category": "artifact",
+    "nameEn": "dried rose",
+    "nameZh": "干枯玫瑰"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.EtherealChains",
+    "simpleName": "EtherealChains",
+    "category": "artifact",
+    "nameEn": "ethereal chains",
+    "nameZh": "虚空锁链"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.HolyTome",
+    "simpleName": "HolyTome",
+    "category": "artifact",
+    "nameEn": "holy tome",
+    "nameZh": "神圣法典"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.HornOfPlenty",
+    "simpleName": "HornOfPlenty",
+    "category": "artifact",
+    "nameEn": "horn of plenty",
+    "nameZh": "丰饶之角"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.LloydsBeacon",
+    "simpleName": "LloydsBeacon",
+    "category": "artifact",
+    "nameEn": "lloyd's beacon",
+    "nameZh": "时空道标"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.MasterThievesArmband",
+    "simpleName": "MasterThievesArmband",
+    "category": "artifact",
+    "nameEn": "master thieves' armband",
+    "nameZh": "神偷袖章"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.SandalsOfNature",
+    "simpleName": "SandalsOfNature",
+    "category": "artifact",
+    "nameEn": "sandals of nature",
+    "nameZh": "自然之履"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.SkeletonKey",
+    "simpleName": "SkeletonKey",
+    "category": "artifact",
+    "nameEn": "skeleton key",
+    "nameZh": "骷髅钥匙"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.TalismanOfForesight",
+    "simpleName": "TalismanOfForesight",
+    "category": "artifact",
+    "nameEn": "talisman of foresight",
+    "nameZh": "先见护符"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.TimekeepersHourglass",
+    "simpleName": "TimekeepersHourglass",
+    "category": "artifact",
+    "nameEn": "timekeeper's hourglass",
+    "nameZh": "时光沙漏"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.artifacts.UnstableSpellbook",
+    "simpleName": "UnstableSpellbook",
+    "category": "artifact",
+    "nameEn": "unstable spellbook",
+    "nameZh": "无序魔典"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bags.Bag",
+    "simpleName": "Bag",
+    "category": "bag",
+    "nameEn": "backpack",
+    "nameZh": "背包"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bags.MagicalHolster",
+    "simpleName": "MagicalHolster",
+    "category": "bag",
+    "nameEn": "magical holster",
+    "nameZh": "魔法筒袋"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bags.PotionBandolier",
+    "simpleName": "PotionBandolier",
+    "category": "bag",
+    "nameEn": "potion bandolier",
+    "nameZh": "药剂挎带"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bags.ScrollHolder",
+    "simpleName": "ScrollHolder",
+    "category": "bag",
+    "nameEn": "scroll holder",
+    "nameZh": "卷轴筒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bags.VelvetPouch",
+    "simpleName": "VelvetPouch",
+    "category": "bag",
+    "nameEn": "velvet pouch",
+    "nameZh": "绒布袋"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.ArcaneBomb",
+    "simpleName": "ArcaneBomb",
+    "category": "bomb",
+    "nameEn": "arcane bomb",
+    "nameZh": "奥术炸弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.Bomb",
+    "simpleName": "Bomb",
+    "category": "bomb",
+    "nameEn": "bomb",
+    "nameZh": "炸弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.Firebomb",
+    "simpleName": "Firebomb",
+    "category": "bomb",
+    "nameEn": "firebomb",
+    "nameZh": "燃烧弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.FlashBangBomb",
+    "simpleName": "FlashBangBomb",
+    "category": "bomb",
+    "nameEn": "flashbang",
+    "nameZh": "闪光弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.FrostBomb",
+    "simpleName": "FrostBomb",
+    "category": "bomb",
+    "nameEn": "frost bomb",
+    "nameZh": "冰霜炸弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.HolyBomb",
+    "simpleName": "HolyBomb",
+    "category": "bomb",
+    "nameEn": "holy bomb",
+    "nameZh": "神圣炸弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.Noisemaker",
+    "simpleName": "Noisemaker",
+    "category": "bomb",
+    "nameEn": "noisemaker",
+    "nameZh": "噪音地雷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.RegrowthBomb",
+    "simpleName": "RegrowthBomb",
+    "category": "bomb",
+    "nameEn": "regrowth bomb",
+    "nameZh": "再生炸弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.ShrapnelBomb",
+    "simpleName": "ShrapnelBomb",
+    "category": "bomb",
+    "nameEn": "shrapnel bomb",
+    "nameZh": "破片炸弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.SmokeBomb",
+    "simpleName": "SmokeBomb",
+    "category": "bomb",
+    "nameEn": "smoke bomb",
+    "nameZh": "烟雾弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.bombs.WoollyBomb",
+    "simpleName": "WoollyBomb",
+    "category": "bomb",
+    "nameEn": "woolly bomb",
+    "nameZh": "绵绵炸弹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.BrokenSeal",
+    "simpleName": "BrokenSeal",
+    "category": "misc",
+    "nameEn": "broken seal",
+    "nameZh": "破损纹章"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Dewdrop",
+    "simpleName": "Dewdrop",
+    "category": "misc",
+    "nameEn": "dewdrop",
+    "nameZh": "露珠"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.EnergyCrystal",
+    "simpleName": "EnergyCrystal",
+    "category": "misc",
+    "nameEn": "energy crystal",
+    "nameZh": "能量晶体"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.Berry",
+    "simpleName": "Berry",
+    "category": "food",
+    "nameEn": "dungeon berry",
+    "nameZh": "地牢浆果"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.Blandfruit",
+    "simpleName": "Blandfruit",
+    "category": "food",
+    "nameEn": "blandfruit",
+    "nameZh": "无味果"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.ChargrilledMeat",
+    "simpleName": "ChargrilledMeat",
+    "category": "food",
+    "nameEn": "chargrilled meat",
+    "nameZh": "烤肉"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.Food",
+    "simpleName": "Food",
+    "category": "food",
+    "nameEn": "ration of food",
+    "nameZh": "口粮"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.FrozenCarpaccio",
+    "simpleName": "FrozenCarpaccio",
+    "category": "food",
+    "nameEn": "frozen carpaccio",
+    "nameZh": "冷冻生肉片"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.MeatPie",
+    "simpleName": "MeatPie",
+    "category": "food",
+    "nameEn": "meat pie",
+    "nameZh": "全肉大饼"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.MysteryMeat",
+    "simpleName": "MysteryMeat",
+    "category": "food",
+    "nameEn": "mystery meat",
+    "nameZh": "神秘的肉"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.Pasty",
+    "simpleName": "Pasty",
+    "category": "food",
+    "nameEn": "pasty",
+    "nameZh": "馅饼"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.PhantomMeat",
+    "simpleName": "PhantomMeat",
+    "category": "food",
+    "nameEn": "phantom meat",
+    "nameZh": "幻影鱼肉"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.SmallRation",
+    "simpleName": "SmallRation",
+    "category": "food",
+    "nameEn": "small food ration",
+    "nameZh": "小包口粮"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.StewedMeat",
+    "simpleName": "StewedMeat",
+    "category": "food",
+    "nameEn": "stewed meat",
+    "nameZh": "炖肉"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.food.SupplyRation",
+    "simpleName": "SupplyRation",
+    "category": "food",
+    "nameEn": "supply ration",
+    "nameZh": "备用口粮"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Gold",
+    "simpleName": "Gold",
+    "category": "misc",
+    "nameEn": "gold",
+    "nameZh": "金币"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Honeypot",
+    "simpleName": "Honeypot",
+    "category": "misc",
+    "nameEn": "honeypot",
+    "nameZh": "蜂蜜罐"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.journal.AlchemyPage",
+    "simpleName": "AlchemyPage",
+    "category": "misc",
+    "nameEn": "torn alchemy book page",
+    "nameZh": "被撕下的炼金指南书页"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.journal.DocumentPage",
+    "simpleName": "DocumentPage",
+    "category": "misc",
+    "nameEn": "torn page",
+    "nameZh": "被撕下的书页"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.journal.Guidebook",
+    "simpleName": "Guidebook",
+    "category": "misc",
+    "nameEn": "tome of dungeon mastery",
+    "nameZh": "地牢探索指南"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.journal.GuidePage",
+    "simpleName": "GuidePage",
+    "category": "misc",
+    "nameEn": "torn guidebook page",
+    "nameZh": "被撕下的指南书页"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.journal.RegionLorePage",
+    "simpleName": "RegionLorePage",
+    "category": "misc",
+    "nameEn": "worn letter",
+    "nameZh": "磨旧的信笺"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.keys.CrystalKey",
+    "simpleName": "CrystalKey",
+    "category": "misc",
+    "nameEn": "Crystal key",
+    "nameZh": "水晶钥匙"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.keys.GoldenKey",
+    "simpleName": "GoldenKey",
+    "category": "misc",
+    "nameEn": "golden key",
+    "nameZh": "金钥匙"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.keys.IronKey",
+    "simpleName": "IronKey",
+    "category": "misc",
+    "nameEn": "iron key",
+    "nameZh": "铁钥匙"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.keys.Key",
+    "simpleName": "Key",
+    "category": "misc",
+    "nameEn": "skeleton key",
+    "nameZh": "骷髅钥匙"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.keys.WornKey",
+    "simpleName": "WornKey",
+    "category": "misc",
+    "nameEn": "worn key",
+    "nameZh": "磨损钥匙"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.KingsCrown",
+    "simpleName": "KingsCrown",
+    "category": "misc",
+    "nameEn": "Dwarf King's crown",
+    "nameZh": "矮人国王的皇冠"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.LiquidMetal",
+    "simpleName": "LiquidMetal",
+    "category": "misc",
+    "nameEn": "liquid metal",
+    "nameZh": "液金"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.LostBackpack",
+    "simpleName": "LostBackpack",
+    "category": "misc",
+    "nameEn": "lost backpack",
+    "nameZh": "遗物"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.brews.AquaBrew",
+    "simpleName": "AquaBrew",
+    "category": "potion",
+    "nameEn": "aqua brew",
+    "nameZh": "水爆魔药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.brews.BlizzardBrew",
+    "simpleName": "BlizzardBrew",
+    "category": "potion",
+    "nameEn": "blizzard brew",
+    "nameZh": "冰暴魔药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.brews.Brew",
+    "simpleName": "Brew",
+    "category": "potion",
+    "nameEn": "aqua brew",
+    "nameZh": "水爆魔药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.brews.CausticBrew",
+    "simpleName": "CausticBrew",
+    "category": "potion",
+    "nameEn": "caustic brew",
+    "nameZh": "淤泥魔药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.brews.InfernalBrew",
+    "simpleName": "InfernalBrew",
+    "category": "potion",
+    "nameEn": "infernal brew",
+    "nameZh": "炼狱魔药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.brews.ShockingBrew",
+    "simpleName": "ShockingBrew",
+    "category": "potion",
+    "nameEn": "shocking brew",
+    "nameZh": "雷鸣魔药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.brews.UnstableBrew",
+    "simpleName": "UnstableBrew",
+    "category": "potion",
+    "nameEn": "unstable brew",
+    "nameZh": "紊乱魔药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.Elixir",
+    "simpleName": "Elixir",
+    "category": "potion",
+    "nameEn": "elixir of arcane armor",
+    "nameZh": "抗魔秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfAquaticRejuvenation",
+    "simpleName": "ElixirOfAquaticRejuvenation",
+    "category": "potion",
+    "nameEn": "elixir of aquatic rejuvenation",
+    "nameZh": "水灵秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfArcaneArmor",
+    "simpleName": "ElixirOfArcaneArmor",
+    "category": "potion",
+    "nameEn": "elixir of arcane armor",
+    "nameZh": "抗魔秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfDragonsBlood",
+    "simpleName": "ElixirOfDragonsBlood",
+    "category": "potion",
+    "nameEn": "elixir of dragon's blood",
+    "nameZh": "龙血秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfFeatherFall",
+    "simpleName": "ElixirOfFeatherFall",
+    "category": "potion",
+    "nameEn": "elixir of feather fall",
+    "nameZh": "羽落秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfHoneyedHealing",
+    "simpleName": "ElixirOfHoneyedHealing",
+    "category": "potion",
+    "nameEn": "elixir of honeyed healing",
+    "nameZh": "圣愈蜜药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfIcyTouch",
+    "simpleName": "ElixirOfIcyTouch",
+    "category": "potion",
+    "nameEn": "elixir of icy touch",
+    "nameZh": "晶触秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfMight",
+    "simpleName": "ElixirOfMight",
+    "category": "potion",
+    "nameEn": "elixir of might",
+    "nameZh": "根骨秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.elixirs.ElixirOfToxicEssence",
+    "simpleName": "ElixirOfToxicEssence",
+    "category": "potion",
+    "nameEn": "elixir of toxic essence",
+    "nameZh": "毒粹秘药"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.ExoticPotion",
+    "simpleName": "ExoticPotion",
+    "category": "potion",
+    "nameEn": "ExoticPotion",
+    "nameZh": "ExoticPotion"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfCleansing",
+    "simpleName": "PotionOfCleansing",
+    "category": "potion",
+    "nameEn": "potion of cleansing",
+    "nameZh": "全面净化合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfCorrosiveGas",
+    "simpleName": "PotionOfCorrosiveGas",
+    "category": "potion",
+    "nameEn": "potion of corrosive gas",
+    "nameZh": "腐蚀酸雾合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfDivineInspiration",
+    "simpleName": "PotionOfDivineInspiration",
+    "category": "potion",
+    "nameEn": "potion of divine inspiration",
+    "nameZh": "神意启发合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfDragonsBreath",
+    "simpleName": "PotionOfDragonsBreath",
+    "category": "potion",
+    "nameEn": "potion of dragon's breath",
+    "nameZh": "火龙吐息合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfEarthenArmor",
+    "simpleName": "PotionOfEarthenArmor",
+    "category": "potion",
+    "nameEn": "potion of earthen armor",
+    "nameZh": "大地护甲合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfMagicalSight",
+    "simpleName": "PotionOfMagicalSight",
+    "category": "potion",
+    "nameEn": "potion of magical sight",
+    "nameZh": "魔能透视合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfMastery",
+    "simpleName": "PotionOfMastery",
+    "category": "potion",
+    "nameEn": "potion of mastery",
+    "nameZh": "肌肉记忆合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfShielding",
+    "simpleName": "PotionOfShielding",
+    "category": "potion",
+    "nameEn": "potion of shielding",
+    "nameZh": "奥术护盾合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfShroudingFog",
+    "simpleName": "PotionOfShroudingFog",
+    "category": "potion",
+    "nameEn": "potion of shrouding fog",
+    "nameZh": "暗夜迷雾合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfSnapFreeze",
+    "simpleName": "PotionOfSnapFreeze",
+    "category": "potion",
+    "nameEn": "potion of snap freeze",
+    "nameZh": "极速冰冻合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfStamina",
+    "simpleName": "PotionOfStamina",
+    "category": "potion",
+    "nameEn": "potion of stamina",
+    "nameZh": "精力回复合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.exotic.PotionOfStormClouds",
+    "simpleName": "PotionOfStormClouds",
+    "category": "potion",
+    "nameEn": "potion of storm clouds",
+    "nameZh": "暴风骤雨合剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.Potion",
+    "simpleName": "Potion",
+    "category": "potion",
+    "nameEn": "potion bandolier",
+    "nameZh": "药剂挎带"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfExperience",
+    "simpleName": "PotionOfExperience",
+    "category": "potion",
+    "nameEn": "potion of experience",
+    "nameZh": "经验药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfFrost",
+    "simpleName": "PotionOfFrost",
+    "category": "potion",
+    "nameEn": "potion of frost",
+    "nameZh": "冰霜药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfHaste",
+    "simpleName": "PotionOfHaste",
+    "category": "potion",
+    "nameEn": "potion of haste",
+    "nameZh": "极速药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfHealing",
+    "simpleName": "PotionOfHealing",
+    "category": "potion",
+    "nameEn": "potion of healing",
+    "nameZh": "治疗药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfInvisibility",
+    "simpleName": "PotionOfInvisibility",
+    "category": "potion",
+    "nameEn": "potion of invisibility",
+    "nameZh": "隐形药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfLevitation",
+    "simpleName": "PotionOfLevitation",
+    "category": "potion",
+    "nameEn": "potion of levitation",
+    "nameZh": "浮空药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfLiquidFlame",
+    "simpleName": "PotionOfLiquidFlame",
+    "category": "potion",
+    "nameEn": "potion of liquid flame",
+    "nameZh": "液火药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfMindVision",
+    "simpleName": "PotionOfMindVision",
+    "category": "potion",
+    "nameEn": "potion of mind vision",
+    "nameZh": "灵视药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfParalyticGas",
+    "simpleName": "PotionOfParalyticGas",
+    "category": "potion",
+    "nameEn": "potion of paralytic gas",
+    "nameZh": "麻痹药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfPurity",
+    "simpleName": "PotionOfPurity",
+    "category": "potion",
+    "nameEn": "potion of purity",
+    "nameZh": "净化药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfStrength",
+    "simpleName": "PotionOfStrength",
+    "category": "potion",
+    "nameEn": "potion of strength",
+    "nameZh": "力量药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.potions.PotionOfToxicGas",
+    "simpleName": "PotionOfToxicGas",
+    "category": "potion",
+    "nameEn": "potion of toxic gas",
+    "nameZh": "毒气药剂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.CeremonialCandle",
+    "simpleName": "CeremonialCandle",
+    "category": "quest",
+    "nameEn": "ceremonial candle",
+    "nameZh": "仪式蜡烛"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.CorpseDust",
+    "simpleName": "CorpseDust",
+    "category": "quest",
+    "nameEn": "corpse dust",
+    "nameZh": "尸尘"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.DarkGold",
+    "simpleName": "DarkGold",
+    "category": "quest",
+    "nameEn": "dark gold ore",
+    "nameZh": "暗金矿"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.DwarfToken",
+    "simpleName": "DwarfToken",
+    "category": "quest",
+    "nameEn": "dwarf token",
+    "nameZh": "矮人徽记"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.Embers",
+    "simpleName": "Embers",
+    "category": "quest",
+    "nameEn": "elemental embers",
+    "nameZh": "元素余烬"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.EscapeCrystal",
+    "simpleName": "EscapeCrystal",
+    "category": "quest",
+    "nameEn": "escape crystal",
+    "nameZh": "逃脱棱晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.GooBlob",
+    "simpleName": "GooBlob",
+    "category": "quest",
+    "nameEn": "blob of goo",
+    "nameZh": "粘咕球"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.ImpStatue",
+    "simpleName": "ImpStatue",
+    "category": "quest",
+    "nameEn": "obsidian statuette",
+    "nameZh": "黑曜石雕像"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.MetalShard",
+    "simpleName": "MetalShard",
+    "category": "quest",
+    "nameEn": "cursed metal shard",
+    "nameZh": "邪能碎片"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.Pickaxe",
+    "simpleName": "Pickaxe",
+    "category": "quest",
+    "nameEn": "pickaxe",
+    "nameZh": "镐子"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.quest.VaultBeacon",
+    "simpleName": "VaultBeacon",
+    "category": "quest",
+    "nameEn": "vault beacon",
+    "nameZh": "宝库信标"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.remains.BowFragment",
+    "simpleName": "BowFragment",
+    "category": "misc",
+    "nameEn": "bow fragment",
+    "nameZh": "灵弓残件"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.remains.BrokenHilt",
+    "simpleName": "BrokenHilt",
+    "category": "misc",
+    "nameEn": "broken hilt",
+    "nameZh": "断折剑柄"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.remains.BrokenStaff",
+    "simpleName": "BrokenStaff",
+    "category": "misc",
+    "nameEn": "broken staff",
+    "nameZh": "横断魔杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.remains.CloakScrap",
+    "simpleName": "CloakScrap",
+    "category": "misc",
+    "nameEn": "scrap of fabric",
+    "nameZh": "残破织物"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.remains.RemainsItem",
+    "simpleName": "RemainsItem",
+    "category": "misc",
+    "nameEn": "RemainsItem",
+    "nameZh": "RemainsItem"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.remains.SealShard",
+    "simpleName": "SealShard",
+    "category": "misc",
+    "nameEn": "seal shards",
+    "nameZh": "纹章残蜡"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.remains.TornPage",
+    "simpleName": "TornPage",
+    "category": "misc",
+    "nameEn": "torn page",
+    "nameZh": "圣典残页"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.Ring",
+    "simpleName": "Ring",
+    "category": "ring",
+    "nameEn": "ring of accuracy",
+    "nameZh": "精准之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfAccuracy",
+    "simpleName": "RingOfAccuracy",
+    "category": "ring",
+    "nameEn": "ring of accuracy",
+    "nameZh": "精准之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfArcana",
+    "simpleName": "RingOfArcana",
+    "category": "ring",
+    "nameEn": "ring of arcana",
+    "nameZh": "奥术之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfElements",
+    "simpleName": "RingOfElements",
+    "category": "ring",
+    "nameEn": "ring of elements",
+    "nameZh": "元素之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfEnergy",
+    "simpleName": "RingOfEnergy",
+    "category": "ring",
+    "nameEn": "ring of energy",
+    "nameZh": "能量之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfEvasion",
+    "simpleName": "RingOfEvasion",
+    "category": "ring",
+    "nameEn": "ring of evasion",
+    "nameZh": "闪避之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfForce",
+    "simpleName": "RingOfForce",
+    "category": "ring",
+    "nameEn": "ring of force",
+    "nameZh": "武力之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfFuror",
+    "simpleName": "RingOfFuror",
+    "category": "ring",
+    "nameEn": "ring of furor",
+    "nameZh": "狂怒之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfHaste",
+    "simpleName": "RingOfHaste",
+    "category": "ring",
+    "nameEn": "ring of haste",
+    "nameZh": "疾速之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfMight",
+    "simpleName": "RingOfMight",
+    "category": "ring",
+    "nameEn": "ring of might",
+    "nameZh": "根骨之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfSharpshooting",
+    "simpleName": "RingOfSharpshooting",
+    "category": "ring",
+    "nameEn": "ring of sharpshooting",
+    "nameZh": "神射之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfTenacity",
+    "simpleName": "RingOfTenacity",
+    "category": "ring",
+    "nameEn": "ring of tenacity",
+    "nameZh": "韧性之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfWealth",
+    "simpleName": "RingOfWealth",
+    "category": "ring",
+    "nameEn": "ring of wealth",
+    "nameZh": "财富之戒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ExoticScroll",
+    "simpleName": "ExoticScroll",
+    "category": "scroll",
+    "nameEn": "ExoticScroll",
+    "nameZh": "ExoticScroll"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfAntiMagic",
+    "simpleName": "ScrollOfAntiMagic",
+    "category": "scroll",
+    "nameEn": "scroll of anti-magic",
+    "nameZh": "驱魔秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfChallenge",
+    "simpleName": "ScrollOfChallenge",
+    "category": "scroll",
+    "nameEn": "scroll of challenge",
+    "nameZh": "决斗秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfDivination",
+    "simpleName": "ScrollOfDivination",
+    "category": "scroll",
+    "nameEn": "scroll of divination",
+    "nameZh": "预知秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfDread",
+    "simpleName": "ScrollOfDread",
+    "category": "scroll",
+    "nameEn": "scroll of dread",
+    "nameZh": "梦魇秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfEnchantment",
+    "simpleName": "ScrollOfEnchantment",
+    "category": "scroll",
+    "nameEn": "scroll of enchantment",
+    "nameZh": "注魔秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfForesight",
+    "simpleName": "ScrollOfForesight",
+    "category": "scroll",
+    "nameEn": "scroll of foresight",
+    "nameZh": "先见秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfMetamorphosis",
+    "simpleName": "ScrollOfMetamorphosis",
+    "category": "scroll",
+    "nameEn": "scroll of metamorphosis",
+    "nameZh": "蜕变秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfMysticalEnergy",
+    "simpleName": "ScrollOfMysticalEnergy",
+    "category": "scroll",
+    "nameEn": "scroll of mystical energy",
+    "nameZh": "魔能秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfPassage",
+    "simpleName": "ScrollOfPassage",
+    "category": "scroll",
+    "nameEn": "scroll of passage",
+    "nameZh": "归返秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfPrismaticImage",
+    "simpleName": "ScrollOfPrismaticImage",
+    "category": "scroll",
+    "nameEn": "scroll of prismatic image",
+    "nameZh": "虹卫秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfPsionicBlast",
+    "simpleName": "ScrollOfPsionicBlast",
+    "category": "scroll",
+    "nameEn": "scroll of psionic blast",
+    "nameZh": "灵爆秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.exotic.ScrollOfSirensSong",
+    "simpleName": "ScrollOfSirensSong",
+    "category": "scroll",
+    "nameEn": "scroll of siren's song",
+    "nameZh": "魅音秘卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.InventoryScroll",
+    "simpleName": "InventoryScroll",
+    "category": "scroll",
+    "nameEn": "InventoryScroll",
+    "nameZh": "InventoryScroll"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.Scroll",
+    "simpleName": "Scroll",
+    "category": "scroll",
+    "nameEn": "scroll holder",
+    "nameZh": "卷轴筒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfIdentify",
+    "simpleName": "ScrollOfIdentify",
+    "category": "scroll",
+    "nameEn": "scroll of identify",
+    "nameZh": "鉴定卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfLullaby",
+    "simpleName": "ScrollOfLullaby",
+    "category": "scroll",
+    "nameEn": "scroll of lullaby",
+    "nameZh": "催眠卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfMagicMapping",
+    "simpleName": "ScrollOfMagicMapping",
+    "category": "scroll",
+    "nameEn": "scroll of magic mapping",
+    "nameZh": "探地卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfMirrorImage",
+    "simpleName": "ScrollOfMirrorImage",
+    "category": "scroll",
+    "nameEn": "scroll of mirror image",
+    "nameZh": "镜像卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfRage",
+    "simpleName": "ScrollOfRage",
+    "category": "scroll",
+    "nameEn": "scroll of rage",
+    "nameZh": "盛怒卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfRecharging",
+    "simpleName": "ScrollOfRecharging",
+    "category": "scroll",
+    "nameEn": "scroll of recharging",
+    "nameZh": "充能卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfRemoveCurse",
+    "simpleName": "ScrollOfRemoveCurse",
+    "category": "scroll",
+    "nameEn": "scroll of remove curse",
+    "nameZh": "祛邪卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfRetribution",
+    "simpleName": "ScrollOfRetribution",
+    "category": "scroll",
+    "nameEn": "scroll of retribution",
+    "nameZh": "复仇卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfTeleportation",
+    "simpleName": "ScrollOfTeleportation",
+    "category": "scroll",
+    "nameEn": "scroll of teleportation",
+    "nameZh": "传送卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfTerror",
+    "simpleName": "ScrollOfTerror",
+    "category": "scroll",
+    "nameEn": "scroll of terror",
+    "nameZh": "恐惧卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfTransmutation",
+    "simpleName": "ScrollOfTransmutation",
+    "category": "scroll",
+    "nameEn": "scroll of transmutation",
+    "nameZh": "嬗变卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfUpgrade",
+    "simpleName": "ScrollOfUpgrade",
+    "category": "scroll",
+    "nameEn": "scroll of upgrade",
+    "nameZh": "升级卷轴"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.Alchemize",
+    "simpleName": "Alchemize",
+    "category": "spell",
+    "nameEn": "alchemize",
+    "nameZh": "炼金菱晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.BeaconOfReturning",
+    "simpleName": "BeaconOfReturning",
+    "category": "spell",
+    "nameEn": "beacon of returning",
+    "nameZh": "返回晶柱"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.CurseInfusion",
+    "simpleName": "CurseInfusion",
+    "category": "spell",
+    "nameEn": "curse infusion",
+    "nameZh": "诅咒菱晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.InventorySpell",
+    "simpleName": "InventorySpell",
+    "category": "spell",
+    "nameEn": "InventorySpell",
+    "nameZh": "InventorySpell"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.MagicalInfusion",
+    "simpleName": "MagicalInfusion",
+    "category": "spell",
+    "nameEn": "magical infusion",
+    "nameZh": "注魔菱晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.PhaseShift",
+    "simpleName": "PhaseShift",
+    "category": "spell",
+    "nameEn": "phase shift",
+    "nameZh": "转移结晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.ReclaimTrap",
+    "simpleName": "ReclaimTrap",
+    "category": "spell",
+    "nameEn": "reclaim trap",
+    "nameZh": "陷阱晶柱"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.Recycle",
+    "simpleName": "Recycle",
+    "category": "spell",
+    "nameEn": "recycle",
+    "nameZh": "转换菱晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.Spell",
+    "simpleName": "Spell",
+    "category": "spell",
+    "nameEn": "unstable spellbook",
+    "nameZh": "无序魔典"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.SummonElemental",
+    "simpleName": "SummonElemental",
+    "category": "spell",
+    "nameEn": "summon elemental",
+    "nameZh": "唤魔晶柱"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.TargetedSpell",
+    "simpleName": "TargetedSpell",
+    "category": "spell",
+    "nameEn": "TargetedSpell",
+    "nameZh": "TargetedSpell"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.TelekineticGrab",
+    "simpleName": "TelekineticGrab",
+    "category": "spell",
+    "nameEn": "telekinetic grab",
+    "nameZh": "念力结晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.UnstableSpell",
+    "simpleName": "UnstableSpell",
+    "category": "spell",
+    "nameEn": "unstable spell",
+    "nameZh": "无序结晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.spells.WildEnergy",
+    "simpleName": "WildEnergy",
+    "category": "spell",
+    "nameEn": "wild energy",
+    "nameZh": "强能结晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.InventoryStone",
+    "simpleName": "InventoryStone",
+    "category": "stone",
+    "nameEn": "InventoryStone",
+    "nameZh": "InventoryStone"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.Runestone",
+    "simpleName": "Runestone",
+    "category": "stone",
+    "nameEn": "runestone",
+    "nameZh": "符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfAggression",
+    "simpleName": "StoneOfAggression",
+    "category": "stone",
+    "nameEn": "stone of aggression",
+    "nameZh": "敌意符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfAugmentation",
+    "simpleName": "StoneOfAugmentation",
+    "category": "stone",
+    "nameEn": "stone of augmentation",
+    "nameZh": "强化符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfBlast",
+    "simpleName": "StoneOfBlast",
+    "category": "stone",
+    "nameEn": "stone of blast",
+    "nameZh": "震爆符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfBlink",
+    "simpleName": "StoneOfBlink",
+    "category": "stone",
+    "nameEn": "stone of blink",
+    "nameZh": "闪现符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfClairvoyance",
+    "simpleName": "StoneOfClairvoyance",
+    "category": "stone",
+    "nameEn": "stone of clairvoyance",
+    "nameZh": "明示符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfDeepSleep",
+    "simpleName": "StoneOfDeepSleep",
+    "category": "stone",
+    "nameEn": "stone of deep sleep",
+    "nameZh": "沉睡符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfDetectMagic",
+    "simpleName": "StoneOfDetectMagic",
+    "category": "stone",
+    "nameEn": "stone of detect magic",
+    "nameZh": "探魔符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfEnchantment",
+    "simpleName": "StoneOfEnchantment",
+    "category": "stone",
+    "nameEn": "stone of enchantment",
+    "nameZh": "附魔符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfFear",
+    "simpleName": "StoneOfFear",
+    "category": "stone",
+    "nameEn": "stone of fear",
+    "nameZh": "恐惧符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfFlock",
+    "simpleName": "StoneOfFlock",
+    "category": "stone",
+    "nameEn": "stone of flock",
+    "nameZh": "羊群符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfIntuition",
+    "simpleName": "StoneOfIntuition",
+    "category": "stone",
+    "nameEn": "stone of intuition",
+    "nameZh": "感知符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.stones.StoneOfShock",
+    "simpleName": "StoneOfShock",
+    "category": "stone",
+    "nameEn": "stone of shock",
+    "nameZh": "电击符石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Stylus",
+    "simpleName": "Stylus",
+    "category": "misc",
+    "nameEn": "arcane stylus",
+    "nameZh": "奥术刻笔"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.TengusMask",
+    "simpleName": "TengusMask",
+    "category": "misc",
+    "nameEn": "Tengu's mask",
+    "nameZh": "天狗的面具"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Torch",
+    "simpleName": "Torch",
+    "category": "misc",
+    "nameEn": "torch",
+    "nameZh": "火把"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.ChaoticCenser",
+    "simpleName": "ChaoticCenser",
+    "category": "trinket",
+    "nameEn": "chaotic censer",
+    "nameZh": "混沌香炉"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.CrackedSpyglass",
+    "simpleName": "CrackedSpyglass",
+    "category": "trinket",
+    "nameEn": "cracked spyglass",
+    "nameZh": "幻象裂镜"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.DimensionalSundial",
+    "simpleName": "DimensionalSundial",
+    "category": "trinket",
+    "nameEn": "dimensional sundial",
+    "nameZh": "位面日晷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.ExoticCrystals",
+    "simpleName": "ExoticCrystals",
+    "category": "trinket",
+    "nameEn": "exotic crystals",
+    "nameZh": "奇异能晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.EyeOfNewt",
+    "simpleName": "EyeOfNewt",
+    "category": "trinket",
+    "nameEn": "eye of newt",
+    "nameZh": "蝾螈魔眼"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.FerretTuft",
+    "simpleName": "FerretTuft",
+    "category": "trinket",
+    "nameEn": "ferret tuft",
+    "nameZh": "雪貂绒束"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.MimicTooth",
+    "simpleName": "MimicTooth",
+    "category": "trinket",
+    "nameEn": "mimic tooth",
+    "nameZh": "拟箱利齿"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.MossyClump",
+    "simpleName": "MossyClump",
+    "category": "trinket",
+    "nameEn": "mossy clump",
+    "nameZh": "苔藓丛簇"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.ParchmentScrap",
+    "simpleName": "ParchmentScrap",
+    "category": "trinket",
+    "nameEn": "parchment scrap",
+    "nameZh": "残魔余卷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.PetrifiedSeed",
+    "simpleName": "PetrifiedSeed",
+    "category": "trinket",
+    "nameEn": "petrified seed",
+    "nameZh": "石化种子"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.RatSkull",
+    "simpleName": "RatSkull",
+    "category": "trinket",
+    "nameEn": "rat skull",
+    "nameZh": "巨鼠头骨"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.SaltCube",
+    "simpleName": "SaltCube",
+    "category": "trinket",
+    "nameEn": "salt cube",
+    "nameZh": "盐晶立方"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.ShardOfOblivion",
+    "simpleName": "ShardOfOblivion",
+    "category": "trinket",
+    "nameEn": "shard of oblivion",
+    "nameZh": "遗忘碎片"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.ThirteenLeafClover",
+    "simpleName": "ThirteenLeafClover",
+    "category": "trinket",
+    "nameEn": "thirteen leaf clover",
+    "nameZh": "十三叶草"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.TrapMechanism",
+    "simpleName": "TrapMechanism",
+    "category": "trinket",
+    "nameEn": "trap mechanism",
+    "nameZh": "陷阱元件"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.Trinket",
+    "simpleName": "Trinket",
+    "category": "trinket",
+    "nameEn": "chaotic censer",
+    "nameZh": "混沌香炉"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.TrinketCatalyst",
+    "simpleName": "TrinketCatalyst",
+    "category": "trinket",
+    "nameEn": "magical catalyst",
+    "nameZh": "魔能触媒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.VialOfBlood",
+    "simpleName": "VialOfBlood",
+    "category": "trinket",
+    "nameEn": "vial of blood",
+    "nameZh": "凝血试管"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.trinkets.WondrousResin",
+    "simpleName": "WondrousResin",
+    "category": "trinket",
+    "nameEn": "wondrous resin",
+    "nameZh": "奇迹树脂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.CursedWand",
+    "simpleName": "CursedWand",
+    "category": "wand",
+    "nameEn": "CursedWand",
+    "nameZh": "CursedWand"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.DamageWand",
+    "simpleName": "DamageWand",
+    "category": "wand",
+    "nameEn": "DamageWand",
+    "nameZh": "DamageWand"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.Wand",
+    "simpleName": "Wand",
+    "category": "wand",
+    "nameEn": "Unidentified Wand Used",
+    "nameZh": "已使用未鉴定法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfBlastWave",
+    "simpleName": "WandOfBlastWave",
+    "category": "wand",
+    "nameEn": "wand of blast wave",
+    "nameZh": "冲击波法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfCorrosion",
+    "simpleName": "WandOfCorrosion",
+    "category": "wand",
+    "nameEn": "wand of corrosion",
+    "nameZh": "酸蚀法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfCorruption",
+    "simpleName": "WandOfCorruption",
+    "category": "wand",
+    "nameEn": "wand of corruption",
+    "nameZh": "腐化法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfDisintegration",
+    "simpleName": "WandOfDisintegration",
+    "category": "wand",
+    "nameEn": "wand of disintegration",
+    "nameZh": "解离法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfFireblast",
+    "simpleName": "WandOfFireblast",
+    "category": "wand",
+    "nameEn": "wand of fireblast",
+    "nameZh": "焰浪法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfFrost",
+    "simpleName": "WandOfFrost",
+    "category": "wand",
+    "nameEn": "wand of frost",
+    "nameZh": "冰霜法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfLightning",
+    "simpleName": "WandOfLightning",
+    "category": "wand",
+    "nameEn": "wand of lightning",
+    "nameZh": "雷霆法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfLivingEarth",
+    "simpleName": "WandOfLivingEarth",
+    "category": "wand",
+    "nameEn": "wand of living earth",
+    "nameZh": "灵壤法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfMagicMissile",
+    "simpleName": "WandOfMagicMissile",
+    "category": "wand",
+    "nameEn": "wand of magic missile",
+    "nameZh": "魔弹法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfPrismaticLight",
+    "simpleName": "WandOfPrismaticLight",
+    "category": "wand",
+    "nameEn": "wand of prismatic light",
+    "nameZh": "棱光法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfRegrowth",
+    "simpleName": "WandOfRegrowth",
+    "category": "wand",
+    "nameEn": "wand of regrowth",
+    "nameZh": "再生法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfTransfusion",
+    "simpleName": "WandOfTransfusion",
+    "category": "wand",
+    "nameEn": "wand of transfusion",
+    "nameZh": "注魂法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfWarding",
+    "simpleName": "WandOfWarding",
+    "category": "wand",
+    "nameEn": "wand of warding",
+    "nameZh": "哨卫法杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.Waterskin",
+    "simpleName": "Waterskin",
+    "category": "misc",
+    "nameEn": "waterskin",
+    "nameZh": "水袋"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Annoying",
+    "simpleName": "Annoying",
+    "category": "weapon",
+    "nameEn": "annoying",
+    "nameZh": "喧闹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Dazzling",
+    "simpleName": "Dazzling",
+    "category": "weapon",
+    "nameEn": "dazzling",
+    "nameZh": "炫目"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Displacing",
+    "simpleName": "Displacing",
+    "category": "weapon",
+    "nameEn": "displacing",
+    "nameZh": "转移"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Explosive",
+    "simpleName": "Explosive",
+    "category": "weapon",
+    "nameEn": "explosive",
+    "nameZh": "易爆"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Friendly",
+    "simpleName": "Friendly",
+    "category": "weapon",
+    "nameEn": "friendly",
+    "nameZh": "友善"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Polarized",
+    "simpleName": "Polarized",
+    "category": "weapon",
+    "nameEn": "polarized",
+    "nameZh": "极化"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Pressurized",
+    "simpleName": "Pressurized",
+    "category": "weapon",
+    "nameEn": "pressurized",
+    "nameZh": "激流"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Sacrificial",
+    "simpleName": "Sacrificial",
+    "category": "weapon",
+    "nameEn": "sacrificial",
+    "nameZh": "血祭"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Wayward",
+    "simpleName": "Wayward",
+    "category": "weapon",
+    "nameEn": "wayward",
+    "nameZh": "妄为"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.curses.Wondrous",
+    "simpleName": "Wondrous",
+    "category": "weapon",
+    "nameEn": "wondrous",
+    "nameZh": "奇迹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Blazing",
+    "simpleName": "Blazing",
+    "category": "weapon",
+    "nameEn": "blazing",
+    "nameZh": "烈焰"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Blocking",
+    "simpleName": "Blocking",
+    "category": "weapon",
+    "nameEn": "blocking",
+    "nameZh": "招架"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Blooming",
+    "simpleName": "Blooming",
+    "category": "weapon",
+    "nameEn": "blooming",
+    "nameZh": "繁茂"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Chilling",
+    "simpleName": "Chilling",
+    "category": "weapon",
+    "nameEn": "chilling",
+    "nameZh": "寒霜"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Corrupting",
+    "simpleName": "Corrupting",
+    "category": "weapon",
+    "nameEn": "corrupting",
+    "nameZh": "腐化"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Crystal",
+    "simpleName": "Crystal",
+    "category": "weapon",
+    "nameEn": "crystal",
+    "nameZh": "魔晶"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Elastic",
+    "simpleName": "Elastic",
+    "category": "weapon",
+    "nameEn": "elastic",
+    "nameZh": "弹性"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Eldritch",
+    "simpleName": "Eldritch",
+    "category": "weapon",
+    "nameEn": "eldritch",
+    "nameZh": "异质"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Grim",
+    "simpleName": "Grim",
+    "category": "weapon",
+    "nameEn": "grim",
+    "nameZh": "死神"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Kinetic",
+    "simpleName": "Kinetic",
+    "category": "weapon",
+    "nameEn": "kinetic",
+    "nameZh": "恒动"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Lucky",
+    "simpleName": "Lucky",
+    "category": "weapon",
+    "nameEn": "lucky",
+    "nameZh": "幸运"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Projecting",
+    "simpleName": "Projecting",
+    "category": "weapon",
+    "nameEn": "projecting",
+    "nameZh": "索敌"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Shocking",
+    "simpleName": "Shocking",
+    "category": "weapon",
+    "nameEn": "shocking",
+    "nameZh": "电击"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Unstable",
+    "simpleName": "Unstable",
+    "category": "weapon",
+    "nameEn": "unstable",
+    "nameZh": "紊乱"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Vampiric",
+    "simpleName": "Vampiric",
+    "category": "weapon",
+    "nameEn": "vampiric",
+    "nameZh": "血饮"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Venomous",
+    "simpleName": "Venomous",
+    "category": "weapon",
+    "nameEn": "venomous",
+    "nameZh": "猛毒"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.enchantments.Vorpal",
+    "simpleName": "Vorpal",
+    "category": "weapon",
+    "nameEn": "vorpal",
+    "nameZh": "锋锐"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.AssassinsBlade",
+    "simpleName": "AssassinsBlade",
+    "category": "weapon_melee",
+    "nameEn": "assassin's blade",
+    "nameZh": "暗杀之刃"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.BattleAxe",
+    "simpleName": "BattleAxe",
+    "category": "weapon_melee",
+    "nameEn": "battle axe",
+    "nameZh": "战斧"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Crossbow",
+    "simpleName": "Crossbow",
+    "category": "weapon_melee",
+    "nameEn": "crossbow",
+    "nameZh": "十字弩"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Cudgel",
+    "simpleName": "Cudgel",
+    "category": "weapon_melee",
+    "nameEn": "cudgel",
+    "nameZh": "权杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Dagger",
+    "simpleName": "Dagger",
+    "category": "weapon_melee",
+    "nameEn": "dagger",
+    "nameZh": "匕首"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Dirk",
+    "simpleName": "Dirk",
+    "category": "weapon_melee",
+    "nameEn": "dirk",
+    "nameZh": "长匕首"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Flail",
+    "simpleName": "Flail",
+    "category": "weapon_melee",
+    "nameEn": "flail",
+    "nameZh": "链枷"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Gauntlet",
+    "simpleName": "Gauntlet",
+    "category": "weapon_melee",
+    "nameEn": "stone gauntlet",
+    "nameZh": "魔岩拳套"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Glaive",
+    "simpleName": "Glaive",
+    "category": "weapon_melee",
+    "nameEn": "glaive",
+    "nameZh": "关刀"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Gloves",
+    "simpleName": "Gloves",
+    "category": "weapon_melee",
+    "nameEn": "studded gloves",
+    "nameZh": "镶钉手套"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Greataxe",
+    "simpleName": "Greataxe",
+    "category": "weapon_melee",
+    "nameEn": "greataxe",
+    "nameZh": "巨斧"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Greatshield",
+    "simpleName": "Greatshield",
+    "category": "weapon_melee",
+    "nameEn": "greatshield",
+    "nameZh": "巨型方盾"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Greatsword",
+    "simpleName": "Greatsword",
+    "category": "weapon_melee",
+    "nameEn": "greatsword",
+    "nameZh": "巨剑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.HandAxe",
+    "simpleName": "HandAxe",
+    "category": "weapon_melee",
+    "nameEn": "hand axe",
+    "nameZh": "手斧"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Katana",
+    "simpleName": "Katana",
+    "category": "weapon_melee",
+    "nameEn": "katana",
+    "nameZh": "武士刀"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Longsword",
+    "simpleName": "Longsword",
+    "category": "weapon_melee",
+    "nameEn": "longsword",
+    "nameZh": "长剑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Mace",
+    "simpleName": "Mace",
+    "category": "weapon_melee",
+    "nameEn": "mace",
+    "nameZh": "硬头锤"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.MagesStaff",
+    "simpleName": "MagesStaff",
+    "category": "weapon_melee",
+    "nameEn": "mage's staff",
+    "nameZh": "法师魔杖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.MeleeWeapon",
+    "simpleName": "MeleeWeapon",
+    "category": "weapon_melee",
+    "nameEn": "MeleeWeapon",
+    "nameZh": "MeleeWeapon"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Quarterstaff",
+    "simpleName": "Quarterstaff",
+    "category": "weapon_melee",
+    "nameEn": "quarterstaff",
+    "nameZh": "铁头棍"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Rapier",
+    "simpleName": "Rapier",
+    "category": "weapon_melee",
+    "nameEn": "rapier",
+    "nameZh": "刺剑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.RoundShield",
+    "simpleName": "RoundShield",
+    "category": "weapon_melee",
+    "nameEn": "round shield",
+    "nameZh": "圆盾"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.RunicBlade",
+    "simpleName": "RunicBlade",
+    "category": "weapon_melee",
+    "nameEn": "runic blade",
+    "nameZh": "符文之刃"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Sai",
+    "simpleName": "Sai",
+    "category": "weapon_melee",
+    "nameEn": "sai",
+    "nameZh": "双钗"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Scimitar",
+    "simpleName": "Scimitar",
+    "category": "weapon_melee",
+    "nameEn": "scimitar",
+    "nameZh": "弯刀"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Shortsword",
+    "simpleName": "Shortsword",
+    "category": "weapon_melee",
+    "nameEn": "shortsword",
+    "nameZh": "短剑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Sickle",
+    "simpleName": "Sickle",
+    "category": "weapon_melee",
+    "nameEn": "sickle",
+    "nameZh": "短柄镰"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Spear",
+    "simpleName": "Spear",
+    "category": "weapon_melee",
+    "nameEn": "spear",
+    "nameZh": "长矛"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Sword",
+    "simpleName": "Sword",
+    "category": "weapon_melee",
+    "nameEn": "sword",
+    "nameZh": "单手剑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.WarHammer",
+    "simpleName": "WarHammer",
+    "category": "weapon_melee",
+    "nameEn": "war hammer",
+    "nameZh": "战锤"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.WarScythe",
+    "simpleName": "WarScythe",
+    "category": "weapon_melee",
+    "nameEn": "war scythe",
+    "nameZh": "战镰"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.Whip",
+    "simpleName": "Whip",
+    "category": "weapon_melee",
+    "nameEn": "whip",
+    "nameZh": "长鞭"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.melee.WornShortsword",
+    "simpleName": "WornShortsword",
+    "category": "weapon_melee",
+    "nameEn": "worn shortsword",
+    "nameZh": "破旧的短剑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.Bolas",
+    "simpleName": "Bolas",
+    "category": "weapon_missiles",
+    "nameEn": "bolas",
+    "nameZh": "流星索"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.AdrenalineDart",
+    "simpleName": "AdrenalineDart",
+    "category": "weapon_missiles",
+    "nameEn": "adrenaline dart",
+    "nameZh": "激素飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.BlindingDart",
+    "simpleName": "BlindingDart",
+    "category": "weapon_missiles",
+    "nameEn": "blinding dart",
+    "nameZh": "致盲飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.ChillingDart",
+    "simpleName": "ChillingDart",
+    "category": "weapon_missiles",
+    "nameEn": "chilling dart",
+    "nameZh": "寒霜飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.CleansingDart",
+    "simpleName": "CleansingDart",
+    "category": "weapon_missiles",
+    "nameEn": "cleansing dart",
+    "nameZh": "净化飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.Dart",
+    "simpleName": "Dart",
+    "category": "weapon_missiles",
+    "nameEn": "dart",
+    "nameZh": "飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.DisplacingDart",
+    "simpleName": "DisplacingDart",
+    "category": "weapon_missiles",
+    "nameEn": "displacing dart",
+    "nameZh": "传送飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.HealingDart",
+    "simpleName": "HealingDart",
+    "category": "weapon_missiles",
+    "nameEn": "healing dart",
+    "nameZh": "治疗飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.HolyDart",
+    "simpleName": "HolyDart",
+    "category": "weapon_missiles",
+    "nameEn": "holy dart",
+    "nameZh": "神圣飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.IncendiaryDart",
+    "simpleName": "IncendiaryDart",
+    "category": "weapon_missiles",
+    "nameEn": "incendiary dart",
+    "nameZh": "燃烧飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.ParalyticDart",
+    "simpleName": "ParalyticDart",
+    "category": "weapon_missiles",
+    "nameEn": "paralytic dart",
+    "nameZh": "麻痹飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.PoisonDart",
+    "simpleName": "PoisonDart",
+    "category": "weapon_missiles",
+    "nameEn": "poison dart",
+    "nameZh": "毒液飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.RotDart",
+    "simpleName": "RotDart",
+    "category": "weapon_missiles",
+    "nameEn": "rot dart",
+    "nameZh": "腐莓飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.ShockingDart",
+    "simpleName": "ShockingDart",
+    "category": "weapon_missiles",
+    "nameEn": "shocking dart",
+    "nameZh": "电击飞镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.darts.TippedDart",
+    "simpleName": "TippedDart",
+    "category": "weapon_missiles",
+    "nameEn": "TippedDart",
+    "nameZh": "TippedDart"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.FishingSpear",
+    "simpleName": "FishingSpear",
+    "category": "weapon_missiles",
+    "nameEn": "fishing spear",
+    "nameZh": "捕鱼矛"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.ForceCube",
+    "simpleName": "ForceCube",
+    "category": "weapon_missiles",
+    "nameEn": "force cube",
+    "nameZh": "震爆方石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.HeavyBoomerang",
+    "simpleName": "HeavyBoomerang",
+    "category": "weapon_missiles",
+    "nameEn": "heavy boomerang",
+    "nameZh": "重型回旋镖"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.Javelin",
+    "simpleName": "Javelin",
+    "category": "weapon_missiles",
+    "nameEn": "javelin",
+    "nameZh": "标枪"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.Kunai",
+    "simpleName": "Kunai",
+    "category": "weapon_missiles",
+    "nameEn": "kunai",
+    "nameZh": "苦无"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.MissileWeapon",
+    "simpleName": "MissileWeapon",
+    "category": "weapon_missiles",
+    "nameEn": "thrown weapon",
+    "nameZh": "投掷武器"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.Shuriken",
+    "simpleName": "Shuriken",
+    "category": "weapon_missiles",
+    "nameEn": "shuriken",
+    "nameZh": "手里剑"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.ThrowingClub",
+    "simpleName": "ThrowingClub",
+    "category": "weapon_missiles",
+    "nameEn": "throwing club",
+    "nameZh": "飞槌"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.ThrowingHammer",
+    "simpleName": "ThrowingHammer",
+    "category": "weapon_missiles",
+    "nameEn": "throwing hammer",
+    "nameZh": "投掷锤"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.ThrowingKnife",
+    "simpleName": "ThrowingKnife",
+    "category": "weapon_missiles",
+    "nameEn": "throwing knife",
+    "nameZh": "飞刀"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.ThrowingSpear",
+    "simpleName": "ThrowingSpear",
+    "category": "weapon_missiles",
+    "nameEn": "throwing spear",
+    "nameZh": "投矛"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.ThrowingSpike",
+    "simpleName": "ThrowingSpike",
+    "category": "weapon_missiles",
+    "nameEn": "throwing spike",
+    "nameZh": "飞刺"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.ThrowingStone",
+    "simpleName": "ThrowingStone",
+    "category": "weapon_missiles",
+    "nameEn": "throwing stone",
+    "nameZh": "投石"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.Tomahawk",
+    "simpleName": "Tomahawk",
+    "category": "weapon_missiles",
+    "nameEn": "tomahawk",
+    "nameZh": "飞斧"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.missiles.Trident",
+    "simpleName": "Trident",
+    "category": "weapon_missiles",
+    "nameEn": "trident",
+    "nameZh": "三叉戟"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.SpiritBow",
+    "simpleName": "SpiritBow",
+    "category": "weapon",
+    "nameEn": "spirit bow",
+    "nameZh": "灵能弓"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.items.weapon.Weapon",
+    "simpleName": "Weapon",
+    "category": "weapon",
+    "nameEn": "annoying",
+    "nameZh": "喧闹"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Blindweed$Seed",
+    "simpleName": "BlindweedSeed",
+    "category": "seed",
+    "nameEn": "seed of blindweed",
+    "nameZh": "致盲草之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Earthroot$Seed",
+    "simpleName": "EarthrootSeed",
+    "category": "seed",
+    "nameEn": "seed of earthroot",
+    "nameZh": "地缚根之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Fadeleaf$Seed",
+    "simpleName": "FadeleafSeed",
+    "category": "seed",
+    "nameEn": "seed of fadeleaf",
+    "nameZh": "消逝草之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Firebloom$Seed",
+    "simpleName": "FirebloomSeed",
+    "category": "seed",
+    "nameEn": "seed of firebloom",
+    "nameZh": "烈焰花之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Icecap$Seed",
+    "simpleName": "IcecapSeed",
+    "category": "seed",
+    "nameEn": "seed of icecap",
+    "nameZh": "冰冠花之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Mageroyal$Seed",
+    "simpleName": "MageroyalSeed",
+    "category": "seed",
+    "nameEn": "seed of mageroyal",
+    "nameZh": "魔皇草之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Rotberry$Seed",
+    "simpleName": "RotberrySeed",
+    "category": "seed",
+    "nameEn": "seed of rotberry",
+    "nameZh": "腐莓之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Sorrowmoss$Seed",
+    "simpleName": "SorrowmossSeed",
+    "category": "seed",
+    "nameEn": "seed of sorrowmoss",
+    "nameZh": "断肠苔之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Starflower$Seed",
+    "simpleName": "StarflowerSeed",
+    "category": "seed",
+    "nameEn": "seed of starflower",
+    "nameZh": "星陨花之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Stormvine$Seed",
+    "simpleName": "StormvineSeed",
+    "category": "seed",
+    "nameEn": "seed of stormvine",
+    "nameZh": "风暴藤之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Sungrass$Seed",
+    "simpleName": "SungrassSeed",
+    "category": "seed",
+    "nameEn": "seed of sungrass",
+    "nameZh": "阳春草之种"
+  },
+  {
+    "className": "com.shatteredpixel.shatteredpixeldungeon.plants.Swiftthistle$Seed",
+    "simpleName": "SwiftthistleSeed",
+    "category": "seed",
+    "nameEn": "seed of swiftthistle",
+    "nameZh": "速行蓟之种"
+  }
+]
