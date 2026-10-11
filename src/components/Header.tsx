@@ -73,7 +73,7 @@ export const Header: React.FC<HeaderProps> = ({
 
           {/* GitHub Repo */}
           <a
-            href="https://github.com"
+            href="https://github.com/gghbcj/ShatteredPixelDungeon-save-editor"
             target="_blank"
             rel="noreferrer"
             className="p-1.5 text-slate-400 hover:text-white rounded-md hover:bg-dungeon-card transition"

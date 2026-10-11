@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "private": false,
   "description": "Modern, web-based save editor for Shattered Pixel Dungeon (SPD v4.0.2 / Code 922+)",
-  "homepage": "https://github.com",
+  "homepage": "https://gghbcj.github.io/ShatteredPixelDungeon-save-editor/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gghbcj/ShatteredPixelDungeon-save-editor.git"
+  },
   "author": "",
   "license": "MIT",
   "type": "module",

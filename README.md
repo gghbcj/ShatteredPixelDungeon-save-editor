@@ -80,8 +80,8 @@
 
 ### 1. 克隆仓库与安装依赖
 ```bash
-git clone https://github.com/<你的用户名>/spd-save-editor.git
-cd spd-save-editor
+git clone https://github.com/gghbcj/ShatteredPixelDungeon-save-editor.git
+cd ShatteredPixelDungeon-save-editor
 npm install
 ```
 
