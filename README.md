@@ -16,6 +16,7 @@
 本修改器是针对知名开源 Rogue-like 地牢探险游戏 **《破碎的像素地牢》(Shattered Pixel Dungeon)** 的现代化网页版存档修改器。
 
 本项目参考`spud`、`spd-save-editor`优秀项目的灵感，基于官方最新游戏(v4.0.2)源码进行了全面重构。
+//臣服一些AI神迹<img width="1214" height="1214" alt="371d0cf59e448721459fc9d178cd1d95" src="https://github.com/user-attachments/assets/9ede1c6a-ac03-49d4-9060-b2bed43674b2" />
 
 ### ✨ 核心特性
 
